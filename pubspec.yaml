@@ -1,0 +1,19 @@
+name: email_character_validator
+description: "This Flutter project combines Widgets and Dart discrete code to analyze the characters of an eMail address and return a RichText Widget."
+version: 1.0.1+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
